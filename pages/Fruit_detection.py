@@ -12,7 +12,7 @@ from math import ceil
 import shap
 
 # Import custom utilities
-from utils import stream_data, spinner_call, remark, get_cpu_memory_usage
+from utils import stream_data
 from navigation import make_sidebar
 
 # Configuration for Streamlit
